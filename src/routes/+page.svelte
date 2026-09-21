@@ -100,8 +100,9 @@
 				</p>
 
 				<p>
-					Contigo estoy aprendiendo a tener más paciencia, a escuchar mejor y a querer bonito. Me siento
-					muy feliz de estar contigo y me encanta pasar tiempo a tu lado, aunque sea sin hacer nada.
+					Contigo todo se siente más fácil y más bonito: me sacas una sonrisa sin proponértelo y me calmas
+					cuando ando acelerado. Me siento muy feliz de estar contigo y me encanta pasar tiempo a tu lado,
+					aunque sea sin hacer nada.
 				</p>
 
 				<p>
