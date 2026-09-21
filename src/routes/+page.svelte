@@ -91,19 +91,23 @@
 		<div class="content">
 			<section class="letter">
 				<p class="eyebrow">21 de septiembre</p>
-				<h1 class="title">Te amo</h1>
-
-				<p>Cada día a tu lado es un regalo que llena mi vida de amor, alegría y calma…</p>
+				<h1 class="title">Mi amor</h1>
 
 				<p>
-					Deseo que la vida nos siga encontrando juntos, compartiendo felicidad, sueños y momentos
-					que nos hagan sentir que lo mejor siempre está por venir.
+					Gracias por ser parte de mi vida, mi amor. Te quiero tanto que ya no sabría vivir sin ti, y
+					quiero decirte que, a pesar de mis malos comportamientos, tú me has dado la oportunidad de
+					seguir mejorando.
 				</p>
 
 				<p>
-					Hoy te regalo estas flores amarillas para recordarte que contigo hasta los días grises se
-					pintan de sol, y que quiero seguir celebrando nuestro amor una y mil veces más, tomados de
-					la mano y rodeados de un millón de bendiciones.
+					Contigo estoy aprendiendo a tener más paciencia, a escuchar mejor y a querer bonito. Me siento
+					muy feliz de estar contigo y me encanta pasar tiempo a tu lado, aunque sea sin hacer nada.
+				</p>
+
+				<p>
+					Deseo que lo nuestro siga avanzando como ahora. Sé que recién estamos empezando, pero me
+					gustaría que esto nunca termine. Hoy es un día muy especial, porque es el día de las flores
+					amarillas, y te las regalo para recordarte que contigo hasta los días grises se pintan de sol.
 				</p>
 			</section>
 
@@ -308,8 +312,8 @@
 			grid-template-columns: 1.2fr 0.8fr;
 			grid-template-rows: 1fr auto;
 			align-items: center;
-			column-gap: clamp(1rem, 2.5vw, 2rem);
-			padding: clamp(1.5rem, 3.5vw, 3rem);
+			column-gap: clamp(0.8rem, 2.2dvh, 2rem);
+			padding: clamp(1rem, 3.2dvh, 3rem);
 		}
 
 		.letter {
@@ -319,12 +323,18 @@
 		}
 
 		.title {
-			font-size: clamp(3rem, 6dvh, 4.5rem);
+			font-size: clamp(2.3rem, 6dvh, 4.5rem);
 		}
 
 		.letter p {
-			font-size: clamp(0.85rem, 1.5dvh, 1.02rem);
-			line-height: 1.7;
+			margin-bottom: clamp(0.35rem, 1.1dvh, 0.85rem);
+			font-size: clamp(0.7rem, 1.5dvh, 1.02rem);
+			line-height: 1.58;
+		}
+
+		/* el disco oscuro de este girasol caía justo detrás del último párrafo */
+		.card :global(.deco--bl) {
+			transform: translate(-42%, 26%);
 		}
 
 		.badge {
