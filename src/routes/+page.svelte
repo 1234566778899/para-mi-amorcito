@@ -108,7 +108,7 @@
 				<p>
 					Deseo que lo nuestro siga avanzando como ahora. Sé que recién estamos empezando, pero me
 					gustaría que esto nunca termine. Hoy es un día muy especial, porque es el día de las flores
-					amarillas, y te las regalo para recordarte que contigo hasta los días grises se pintan de sol.
+					amarillas, y quiero recordarte que contigo hasta los días grises se pintan de sol.
 				</p>
 			</section>
 
